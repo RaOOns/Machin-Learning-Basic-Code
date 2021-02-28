@@ -9,9 +9,6 @@ It is the Hyperparameter Optimization in Machine Learning with Python Code :)
 
 
 
-\
-
-\
 
 
 ### Sub-content
